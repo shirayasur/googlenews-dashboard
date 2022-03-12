@@ -1,4 +1,4 @@
-# googlenews-dashboard
+# Google News Dashboard
 A google news tool for tracking keywords' news over time
 
 ## About
